@@ -1,0 +1,25 @@
+Rohit Kumar Gajawada
+201401067
+
+The game consists of 2 levels.
+You die if you stand vertical on a fragile tile.
+You step on switch to activate bridge.
+You must land vertical into teleporter.
+Land vertically onto hole to win the level.
+
+Controls:
+q/Q: exit
+space: change projection
+a: move left
+d: move right
+w: move up
+s: move down
+o: rotate camera left
+p: rotate camera right
+b: blockview
+t: topview
+f: followcamview
+default view is tower view
+
+right mouse click: click and drag for helicopter view
+mouse scroll: zoom in and zoom out
